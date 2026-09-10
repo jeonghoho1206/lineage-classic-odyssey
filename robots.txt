@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeongho1206.github.io/lineage-classic-odyssey/sitemap.xml
